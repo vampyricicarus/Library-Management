@@ -1,0 +1,1 @@
+Using all of our knowledge of classes, functions, and everything else so far we create a complex library management system. We use the LibraryManagement class to store all our functions which we can then call whenever we need them in the main function below. We use while loops to cycle through the menu options seamlessly. The code remains clean due to the use of the classes
